@@ -20,6 +20,9 @@ Ce projet représente les transactions par carte de crédit réalisées en septe
 # Recommandations de l’auteur du DataFrame
 De plus, l'efficacité de la détection de la fraude ne peut être évaluée par la précision seule, étant donné le déséquilibre des classes. Il est donc recommandé d'utiliser l'aire sous la courbe de précision-rappel (AUPRC) comme métrique principale. Cette approche offre une évaluation plus fiable de la performance du modèle, en particulier dans les cas de classification déséquilibrée, comme c'est le cas avec cet ensemble de données.
 
+# DATAFRAME INFO
+![Data](https://github.com/MarvinLaurac/D-tection-de-fraude-de-carte-bancaire/assets/152433361/ce1c86c4-2667-47a3-8268-77c2e9c9fb55)
+
 # LICENCE
 kaggle (Database Contents License (DbCL) v1.0)
 
