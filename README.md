@@ -1,1 +1,1 @@
-# D-tection-de-fraude-de-carte-bancaire
+# D-etection-de-fraude-de-carte-bancaire
