@@ -1,4 +1,4 @@
-# D-etection-de-fraude-de-carte-bancaire
+# Detection-de-fraude-de-carte-bancaire
 
 ![Détection](https://github.com/MarvinLaurac/D-tection-de-fraude-de-carte-bancaire/assets/152433361/04bec3e6-ae4d-4e4a-902c-b1342e376712)
 
