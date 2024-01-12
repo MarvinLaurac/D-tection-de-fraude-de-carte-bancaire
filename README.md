@@ -7,7 +7,7 @@ Dans le monde financier, la fraude bancaire doit répondre à de nombreux probl�
 
 Ce projet a pour but de créer un modèle qui peut aider à la détection de ces transactions suspectes, avec des données d’analyse et d'apprentissage automatique.
 
-![1 1](https://github.com/MarvinLaurac/D-tection-de-fraude-de-carte-bancaire/assets/152433361/abc83961-2d8d-4c0d-99d7-2dedbb7ade74)
+![Sommaire 1](https://github.com/MarvinLaurac/Detection-de-fraude-de-carte-bancaire/assets/152433361/8d68312d-00a8-4532-93b2-300526084fd0)
 
 # LOGICIEL PRIVILÉGIÉ
   - Python
