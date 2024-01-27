@@ -24,7 +24,7 @@ De plus, l'efficacité de la détection de la fraude ne peut être évaluée par
 ![Data](https://github.com/MarvinLaurac/D-tection-de-fraude-de-carte-bancaire/assets/152433361/ce1c86c4-2667-47a3-8268-77c2e9c9fb55)
 
 # LICENCE
-kaggle (Database Contents License (DbCL) v1.0)
+kaggle  (Database Contents License (DbCL) v1.0)
 
 ![1 1 1](https://github.com/MarvinLaurac/D-tection-de-fraude-de-carte-bancaire/assets/152433361/b9512f96-d5a9-40bf-9488-4ee32c51f5cd)
 
