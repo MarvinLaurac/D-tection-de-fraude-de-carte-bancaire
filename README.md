@@ -1,5 +1,5 @@
 # DÉTECTION DE FRAUDE PAR CARTE BANCAIRE
-
+![Indication Marvin Laurac](https://github.com/MarvinLaurac/Detection-de-fraude-de-carte-bancaire/assets/152433361/b4a2ba57-d13b-4e35-8fc9-5a6658829609)
 ![Détection](https://github.com/MarvinLaurac/D-tection-de-fraude-de-carte-bancaire/assets/152433361/04bec3e6-ae4d-4e4a-902c-b1342e376712)
 
 # INTRODUCTION
@@ -10,7 +10,7 @@ Par conséquent, il est important de repérer ces fraudes.
 Ce projet a pour but de créer un modèle qui peut aider à la détection de ces transactions suspectes, avec
 des données d’analyse et d'apprentissage automatique.
 
-![Sommaire 1](https://github.com/MarvinLaurac/Detection-de-fraude-de-carte-bancaire/assets/152433361/8d68312d-00a8-4532-93b2-300526084fd0)
+![1](https://github.com/MarvinLaurac/Detection-de-fraude-de-carte-bancaire/assets/152433361/8466e844-81d2-4555-a9c7-e068a306b4e9)
 
 # LOGICIEL PRIVILÉGIÉ
   - Python
@@ -45,6 +45,6 @@ particulier dans les cas de classification déséquilibrée, comme c'est le cas 
 # LICENCE
 kaggle  (Database Contents License (DbCL) v1.0)
 
-![1 1 1](https://github.com/MarvinLaurac/D-tection-de-fraude-de-carte-bancaire/assets/152433361/b9512f96-d5a9-40bf-9488-4ee32c51f5cd)
+![Marvin](https://github.com/MarvinLaurac/Detection-de-fraude-de-carte-bancaire/assets/152433361/e3ea03d2-8fc2-4eee-848e-4cbaa8399917)
 
 
